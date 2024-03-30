@@ -14,7 +14,7 @@ Before you begin, ensure you have Node.js version 18.16.0 or later installed on 
 To get started with the project, you need to install all dependencies:
 
   ```bash
-  npm install
+  npm ci
   ```
 
 ## Environment Configuration
